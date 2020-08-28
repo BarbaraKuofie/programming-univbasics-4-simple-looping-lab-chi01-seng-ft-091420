@@ -16,7 +16,7 @@ def loop_message_n_times (message, limit)
 end 
   
 
-def outpt_array (array)
+def output_array (array)
   counter = 0
   while counter < array.length do 
     puts array[counter]
